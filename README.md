@@ -1,0 +1,1 @@
+This repository demonstrates a subtle ZeroDivisionError in a Python function. The error is not immediately apparent because of how the code is structured.  The solution highlights a more robust way to handle potential division by zero.
